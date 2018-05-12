@@ -1,0 +1,37 @@
+_repo: Papers-from-Overlook-House_36980
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Beasley, Frederic W.
+    alias: Almore, Casper
+    birthdate: 1808
+    deathdate: 1878
+    gutenberg_agent_id: '38575'
+    url: http://www.gutenberg.org/2009/agents/38575
+description: ''
+gutenberg_issued: '2011-08-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36980'
+  lccn: '20006785'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poetry'
+- !lcsh 'Short stories, American'
+- !lcc 'PS'
+tableOfContents: 'Introductory letter -- Arrival at the village -- The welcome at
+  Overlook-House -- The Christmas log in the kitchen -- How the Overlook papers came
+  to be written -- Dr. Benson; or the living man embalmed for twenty years -- The
+  ghost at Ford Inn; Neshamony -- My first attempt at biography; or, literature for
+  a fair widow -- Katydids: a new chapter in natural history -- The image-maker --
+  The clouds -- The protector dying -- The Indian dream-cell -- Wild flowers gathered
+  for my wife -- Riversdale -- Dr. Samuel Stanhope Smith and the haunted house --
+  Mrs. Digby''s economy -- To my wife -- Fading away.'
+title: Papers from Overlook-House
+url: http://www.gutenberg.org/ebooks/36980
